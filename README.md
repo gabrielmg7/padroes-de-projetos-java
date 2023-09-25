@@ -1,4 +1,4 @@
-# ** ARA1392 - PADRÕES DE PROJETOS DE SOFTWARE COM JAVA **
+# ARA1392 - PADRÕES DE PROJETOS DE SOFTWARE COM JAVA
 ## PADRÕES DE PROJETOS DE SOFTWARE COM JAVA (ARA1392 / 2023.2) Turma 9001
 
     👩🏽 Professor(a): Maiara Heil Cancian
@@ -24,7 +24,7 @@ Aulas interativas em ambiente virtual de aprendizagem, didaticamente planejadas 
 
 ---
 
-## **Temas de Aprendizagem**
+## 📖 **Temas de Aprendizagem**
 
 1. PADRÕES GOF DE CRIAÇÃO
    1. ABSTRACT FACTORY
