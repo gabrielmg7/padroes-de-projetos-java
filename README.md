@@ -27,7 +27,7 @@ Aulas interativas em ambiente virtual de aprendizagem, didaticamente planejadas 
 ## **Temas de Aprendizagem**
 
 1. PADRÕES GOF DE CRIAÇÃO
-   1.ABSTRACT FACTORY
+   1. ABSTRACT FACTORY
    2. BUILDER
    3. FACTORY METHOD
    4. PROTOTYPE E SINGLETON
