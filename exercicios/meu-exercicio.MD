@@ -3,7 +3,7 @@
 1. A classe `java.awt.Toolkit` é um exemplo da aplicação de que padrão de projeto?
 
    - Builder
-   - <span style="color:green">Abstract Factory</span>
+   - <span style="color:green">Abstract Factory ✅</span>
    - Prototype
    - Singleton
    - Factory Method
@@ -17,7 +17,7 @@
    Assinale a alternativa com o nome do padrão que possui esse propósito:
 
    - Abstract Factory
-   - <span style="color:green">Factory Method</span>
+   - <span style="color:green">Factory Method ✅</span>
    - Builder
    - Prototype
    - Singleton
@@ -30,7 +30,7 @@
 
 3. Você está desenvolvendo um sistema e percebe que está instanciando uma grande quantidade de objetos cujos atributos não mudam de valor durante toda a execução do programa. Muitos desses objetos instanciados são réplicas, o que gera uma utilização muito ineficiente da memória. Assinale a alternativa com o nome do padrão que poderia ser aplicado nesse cenário:
 
-   - <span style="color:green">Flyweight</span>
+   - <span style="color:green">Flyweight ✅</span>
    - Decorator
    - Bridge
    - Singleton
@@ -42,7 +42,7 @@
 
    - Proxy e Composite.
    - Adapter e Composite.
-   - <span style="color:green">Composite e Decorator.</span>
+   - <span style="color:green">Composite e Decorator ✅</span>
    - Proxy e Adapter.
    - Adapter e Decorator.
 
@@ -54,7 +54,7 @@
 
 5. Assinale a alternativa que expressa a intenção do padrão de projeto Template Method:
 
-   - <span style="color:green">Implementar a estrutura de um algoritmo genérico em uma superclasse, considerando que os passos comuns são implementados na própria superclasse, enquanto os passos específicos são implementados nas suas subclasses.</span>
+   - <span style="color:green">Implementar a estrutura de um algoritmo genérico em uma superclasse, considerando que os passos comuns são implementados na própria superclasse, enquanto os passos específicos são implementados nas suas subclasses. ✅</span>
    - Encapsular uma família de algoritmos em objetos, permitindo que os módulos clientes possam utilizar esses algoritmos de forma intercambiável.
    - Encapsular uma requisição em um objeto, permitindo o registro do histórico de requisições disparadas pelos módulos cliente e a criação de filas de requisições.
    - Permite capturar o estado interno de um objeto, permitindo que o seu estado seja restaurado posteriormente, sem quebrar o encapsulamento desse objeto.
@@ -67,7 +67,7 @@
    Assinale a alternativa com o nome do padrão com esse propósito:
 
    - Mediator
-   - <span style="color:green">Chain of Responsibility</span>
+   - <span style="color:green">Chain of Responsibility ✅</span>
    - Strategy
    - Command
    - Iterator
@@ -83,7 +83,7 @@
    O módulo A possui coesão:
 
    - Temporal.
-   - <span style="color:green">Coincidente.</span>
+   - <span style="color:green">Coincidente ✅</span>
    - Funcional.
    - Sequencial.
    - Procedural.
@@ -96,7 +96,7 @@
 
    - Acoplamento Baixo.
    - Especialista na Informação.
-   - <span style="color:green">Invenção Pura.</span>
+   - <span style="color:green">Invenção Pura ✅</span>
    - Indireção.
    - Polimorfismo.
 
@@ -108,7 +108,7 @@
 
 1. A arquitetura MVC (Model, View e Controller) é utilizada de forma ampla, na criação de sistemas cadastrais, e caracteriza-se pela divisão do sistema em três camadas, com objetivos específicos. Considerando a divisão utilizada pelo MVC, a interface de usuário e o componente DAO estariam, respectivamente, nas camadas:
 
-   - <span style="color:green">View e Model</span>
+   - <span style="color:green">View e Model ✅</span>
    - Model e Controller
    - Controller e Model
    - Model e View
@@ -123,7 +123,7 @@
 2. Ao trabalhar com um aplicativo corporativo, segundo a arquitetura MVC, ocorre uma divisão natural das camadas, em termos dos projetos internos, ficando a camada View sob responsabilidade do projeto com terminador "war". A interface padrão, conforme o próprio terminador indica, é um aplicativo Java Web, sendo comum a implementação de um padrão de desenvolvimento para centralizar o tratamento das requisições, bem como redirecionar para a visualização correta, após efetuar as chamadas para a camada Controller. De qual padrão estamos falando, e qual o componente deve implementá-lo?
 
    - Padrão de desenvolvimento Service Locator e componente do tipo JNDI
-   - <span style="color:green">Padrão de desenvolvimento Front Controller e componente do tipo Servlet</span>
+   - <span style="color:green">Padrão de desenvolvimento Front Controller e componente do tipo Servlet ✅</span>
    - Padrão de desenvolvimento Flyweight e componente do tipo EJB
    - Padrão de desenvolvimento DAO e componente do tipo JPA
    - Padrão de desenvolvimento Facade e componente do tipo EJB
