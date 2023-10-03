@@ -1,8 +1,5 @@
 # **PADRÕES DE PROJETOS DE SOFTWARE COM JAVA**
-## (ARA1392 / 2023.2 / Turma 9001)
-
-    👨🏽‍🏫 Professor(a): Maiara Heil Cancian
-    📍  VCRPS | Disciplina Digital
+## (ARA1392 / 2023.2 / _Disciplina Digital_ / Turma 9001)
 
 ## 🎯 **Objetivos da Disciplina**
 
