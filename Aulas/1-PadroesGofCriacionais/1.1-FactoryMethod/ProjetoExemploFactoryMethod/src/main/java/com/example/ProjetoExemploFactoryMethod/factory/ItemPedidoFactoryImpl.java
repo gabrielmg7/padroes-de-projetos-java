@@ -1,8 +1,9 @@
-package com.example.ProjetoExemploFactoryMethod.Factory;
+package com.example.ProjetoExemploFactoryMethod.factory;
 
 import org.springframework.stereotype.Component;
-import com.example.ProjetoExemploFactoryMethod.Model.ItemPedido;
-import com.example.ProjetoExemploFactoryMethod.Model.Produto;
+
+import com.example.ProjetoExemploFactoryMethod.model.ItemPedido;
+import com.example.ProjetoExemploFactoryMethod.model.Produto;
 
 @Component
 public class ItemPedidoFactoryImpl implements ItemPedidoFactory {

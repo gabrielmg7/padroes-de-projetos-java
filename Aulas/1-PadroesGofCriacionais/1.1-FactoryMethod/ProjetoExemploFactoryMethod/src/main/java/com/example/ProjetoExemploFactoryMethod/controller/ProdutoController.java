@@ -1,10 +1,10 @@
-package com.example.ProjetoExemploFactoryMethod.Controller;
+package com.example.ProjetoExemploFactoryMethod.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-import com.example.ProjetoExemploFactoryMethod.Model.Produto;
-import com.example.ProjetoExemploFactoryMethod.Service.ProdutoService;
+import com.example.ProjetoExemploFactoryMethod.model.Produto;
+import com.example.ProjetoExemploFactoryMethod.service.ProdutoService;
 
 import java.util.List;
 

@@ -1,9 +1,9 @@
-package com.example.ProjetoExemploFactoryMethod.Model;
+package com.example.ProjetoExemploFactoryMethod.model;
 
 import java.util.Date;
 import java.util.List;
 
-import com.example.ProjetoExemploFactoryMethod.Enums.StatusPedido;
+import com.example.ProjetoExemploFactoryMethod.enums.StatusPedido;
 
 public class Pedido {
     private Long id;

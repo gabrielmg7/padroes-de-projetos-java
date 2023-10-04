@@ -1,10 +1,12 @@
-package com.example.ProjetoExemploFactoryMethod.Service;
+package com.example.ProjetoExemploFactoryMethod.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import com.example.ProjetoExemploFactoryMethod.Factory.ItemPedidoFactory;
-import com.example.ProjetoExemploFactoryMethod.Model.ItemPedido;
-import com.example.ProjetoExemploFactoryMethod.Model.Produto;
+
+import com.example.ProjetoExemploFactoryMethod.factory.ItemPedidoFactory;
+import com.example.ProjetoExemploFactoryMethod.model.ItemPedido;
+import com.example.ProjetoExemploFactoryMethod.model.Produto;
+
 import java.util.ArrayList;
 import java.util.List;
 

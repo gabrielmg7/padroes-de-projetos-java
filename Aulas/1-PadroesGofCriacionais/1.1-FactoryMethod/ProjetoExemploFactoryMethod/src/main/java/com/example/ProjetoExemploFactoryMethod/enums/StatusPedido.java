@@ -1,4 +1,4 @@
-package com.example.ProjetoExemploFactoryMethod.Enums;
+package com.example.ProjetoExemploFactoryMethod.enums;
 
 public enum StatusPedido {
     PENDENTE("Pendente"),

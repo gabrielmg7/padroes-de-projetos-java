@@ -1,7 +1,9 @@
-package com.example.ProjetoExemploFactoryMethod.Service;
+package com.example.ProjetoExemploFactoryMethod.service;
 
 import org.springframework.stereotype.Service;
-import com.example.ProjetoExemploFactoryMethod.Model.Produto;
+
+import com.example.ProjetoExemploFactoryMethod.model.Produto;
+
 import java.util.ArrayList;
 import java.util.List;
 

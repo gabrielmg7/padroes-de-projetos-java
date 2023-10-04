@@ -1,7 +1,7 @@
-package com.example.ProjetoExemploFactoryMethod.Factory;
+package com.example.ProjetoExemploFactoryMethod.factory;
 
-import com.example.ProjetoExemploFactoryMethod.Model.ItemPedido;
-import com.example.ProjetoExemploFactoryMethod.Model.Produto;
+import com.example.ProjetoExemploFactoryMethod.model.ItemPedido;
+import com.example.ProjetoExemploFactoryMethod.model.Produto;
 
 public interface ItemPedidoFactory {
 	ItemPedido createItemPedido(Long id, Produto produto, int quantidade, int valorEmCentavos);

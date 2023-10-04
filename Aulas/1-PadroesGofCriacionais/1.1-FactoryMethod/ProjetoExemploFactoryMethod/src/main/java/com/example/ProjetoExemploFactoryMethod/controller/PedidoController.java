@@ -1,9 +1,10 @@
-package com.example.ProjetoExemploFactoryMethod.Controller;
+package com.example.ProjetoExemploFactoryMethod.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import com.example.ProjetoExemploFactoryMethod.Model.ItemPedido;
-import com.example.ProjetoExemploFactoryMethod.Service.PedidoService;
+
+import com.example.ProjetoExemploFactoryMethod.model.ItemPedido;
+import com.example.ProjetoExemploFactoryMethod.service.PedidoService;
 
 import java.util.List;
 

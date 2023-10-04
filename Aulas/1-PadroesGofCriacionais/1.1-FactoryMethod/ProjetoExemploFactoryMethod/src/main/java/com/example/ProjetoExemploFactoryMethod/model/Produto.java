@@ -1,4 +1,4 @@
-package com.example.ProjetoExemploFactoryMethod.Model;
+package com.example.ProjetoExemploFactoryMethod.model;
 
 public class Produto {
     private Long id;
