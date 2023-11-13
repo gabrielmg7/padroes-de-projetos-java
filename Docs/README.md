@@ -15,6 +15,7 @@
 
 ---
 
+
 ## 📑 **Procedimentos de ensino-­aprendizagem**
 
 Aulas interativas em ambiente virtual de aprendizagem, didaticamente planejadas para o desenvolvimento de competências, tornando o processo de aprendizado mais significativo para os alunos. Na sala de aula virtual, a metodologia de ensino contempla diversas estratégias capazes de alcançar os objetivos da disciplina. Os temas das aulas são discutidos e apresentados em diversos formatos como leitura de textos, vídeos, hipertextos, links orientados para pesquisa, estudos de caso, podcasts, atividades animadas de aplicação do conhecimento, simuladores virtuais, quiz interativo, simulados, biblioteca virtual e Explore + para que o aluno possa explorar conteúdos complementares e aprofundar seu conhecimento sobre as temáticas propostas.
